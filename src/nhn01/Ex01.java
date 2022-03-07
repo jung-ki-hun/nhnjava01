@@ -21,3 +21,18 @@ public class Ex01 {
 		System.out.println(hw.add(2,3));
 	}
 }
+
+/**
+객체 -> 틀
+클래스 -> 틀로 찍어낸 것
+
+class Hw{
+	...
+}// 객체
+
+Hw hw = new Hw();
+hw // 클래스
+
+인자 -> value 즉 값
+매개변ㅅ -> 변수 즉 메모리에 할당하는 공간
+ */
